@@ -1,6 +1,5 @@
   # 📊 Analyse de données - Messages d'Informations
   <br>
-  <br>
   
   ## ➡️ Description 
 
@@ -10,13 +9,12 @@ Ce rapport permet d’effectuer des analyses temporelles détaillées (années, 
 
 Enfin, plusieurs indicateurs ont été calculés avec minutie dans le but d’aider les directeurs et les auditeurs à surveiller l’activité des centres et à s’assurer que ces derniers consultent bien les divers messages relatifs aux nouveautés et actualités du groupe.
 <br>
-<br>
+
   ## 🛠 Outils
   - Power BI (desktop & service, DAX)
   - Power Query
   - Excel
   - MySQL
-<br>
 <br>
 
   ## 🌍 Images descriptions
