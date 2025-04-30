@@ -21,6 +21,7 @@ Enfin, plusieurs indicateurs ont été calculés avec minutie dans le but d’ai
 
   ## 🌍 Images descriptions
 <br>
+
   #### Page d'Acceuil 
 ![Page d'acceuil message info](https://github.com/user-attachments/assets/4cdf9968-5bdb-4a37-8f2c-b497467dfc7d)
 <br>
