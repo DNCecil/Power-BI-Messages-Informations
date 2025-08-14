@@ -13,6 +13,7 @@ Enfin, plusieurs indicateurs ont été calculés avec minutie dans le but d’ai
   ## 🛠 Outils
   - Power BI (desktop & service, DAX)
   - Power Query
+  - Divalto
   - Excel
   - MySQL
 <br>
